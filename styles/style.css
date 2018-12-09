@@ -1,0 +1,31 @@
+#logo
+{
+	color: gray;
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: black;
+	background: linear-gradient(black, gray);
+	vertical-align: center;
+	margin-left: 42%;
+}
+
+#showSav, #showUpd, #showDel
+{
+	color:lightgray;
+	padding:5px 5px;
+}
+
+table, td, th
+{
+	border: 1px solid white;
+	padding: 2px;
+	border-radius: 3px;
+	margin-left: 6%;
+}
+
+th
+{
+	color: lightgray;
+	background-color: white;
+}
